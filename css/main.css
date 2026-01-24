@@ -1478,8 +1478,8 @@ input::-moz-focus-inner {
 }
 
 .header-logo img {
-  width: 140px;
-  height: 60px;
+  width: 250px;
+  height: 90px;
 }
 
 
@@ -2919,3 +2919,4 @@ html.no-csstransitions .intro-content__bottom {
 }
 
 /*# sourceMappingURL=main.css.map */
+
