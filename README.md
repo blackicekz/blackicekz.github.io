@@ -9,3 +9,9 @@
 ```shell
 npx http-server .
 ```
+
+Если получится дальше делать с Jekyll.
+
+```shell
+docker run --rm --volume="${PWD}:/srv/jekyll:Z" --publish 4100:4000 jekyll/jekyll jekyll serve --force-polling
+```
